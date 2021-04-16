@@ -67,10 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-// RecipeId = 1 ==> Shakshuka
-// recipeId = 2 ==> Greek Salad
-// recipeId = 3 ==> Shuba Salad
-// recipeId = 4 ==> Falafel
+Recipes in recopes.json file:
+
+    * recipeId = 1 ==> Shakshuka
+    * recipeId = 2 ==> Greek Salad
+    * recipeId = 3 ==> Shuba Salad
+    * recipeId = 4 ==> Falafel
 
 productData JSON Object:
 
