@@ -66,3 +66,39 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+// RecipeId = 1 ==> Shakshuka
+// recipeId = 2 ==> Greek Salad
+// recipeId = 3 ==> Shuba Salad
+// recipeId = 4 ==> Falafel
+
+productData JSON Object:
+
+    productData: {
+        defaultMeasuring: "xxxxxxx",
+        id: nn,
+        imageUrl: "xxxxxxx",
+        lowestPricePerUnit: nnnnn.nn,
+        lowestShopId: nnnnn,
+        lowestShopName: "xxxxxxx"
+        name: "xxxxxxx",
+        quantity: nnnnn
+    }
+
+Error JSON Object:
+
+    error: {
+        response: {
+            ...
+            data: {
+            },
+            request: {
+                ...
+                responseURL: "http://..."
+                ...
+            },
+            ...
+        },
+        status: 404,
+        statusText: "String"
+    }
