@@ -1,806 +1,894 @@
 [
-    {
-        "id": 1,
-        "name": "Shakshuka",
-        "desc": "Eggs dish with tomato",
-        "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
-        "duration": 15,
-        "difficultyLevel": 2,
-        "type": "Eggs",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 1,
-                "index": 1,
-                "name": "Egg",
-                "units": "x",
-                "quantity": 4
-            },
-            {
-                "ingredientId": 2,
-                "index": 2,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 5
-            },
-            {
-                "ingredientId": 3,
-                "index": 3,
-                "name": "Onion",
-                "units": "x",
-                "quantity": 2
-            },
-            {
-                "ingredientId": 4,
-                "index": 4,
-                "name": "Garlic",
-                "units": "heads",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 5,
-                "index": 5,
-                "name": "Sweet Paprica Power",
-                "units": "tablespoon",
-                "quantity": 3
-            },
-            {
-                "ingredientId": 6,
-                "index": 6,
-                "name": "Hot Paprica Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 7,
-                "index": 7,
-                "name": "White Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 9,
-                "index": 9,
-                "name": "Black Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 8,
-                "index": 8,
-                "name": "Kosher Salt",
-                "units": "teaspoon",
-                "quantity": 0.5
-            }
-        ],
-        "preparationSteps": [
-            {
-                "stepNumber": 1,
-                "description": "Cut the tametos to small cube 1cm x 1cm."
-            },
-            {
-                "stepNumber": 2,
-                "description": "Pill and cut the onions into small cubes 1cm x 1cm."
-            },
-            {
-                "stepNumber": 3,
-                "description": "Pill and cut the garlic into thin slices."
-            },
-            {
-                "stepNumber": 4,
-                "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
-            },
-            {
-                "stepNumber": 5,
-                "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
-            },
-            {
-                "stepNumber": 6,
-                "description": "Add the garlic and fry for about 2 min on high flame."
-            },
-            {
-                "stepNumber": 7,
-                "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
-            },
-            {
-                "stepNumber": 8,
-                "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
-            },
-            {
-                "stepNumber": 9,
-                "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
-            },
-            {
-                "stepNumber": 10,
-                "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
-            },
-            {
-                "stepNumber": 11,
-                "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
-            },
-            {
-                "stepNumber": 12,
-                "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
-            },
-            {
-                "stepNumber": 13,
-                "description": " Let it cook for 10-15 min."
-            },
-            {
-                "stepNumber": 14,
-                "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
-            },
-            {
-                "stepNumber": 15,
-                "description": "Turn off the flame and serve to the table with pita bread or toasts."
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Greek Salad",
-        "desc": "Tomato and olives and cheese",
-        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
-        "duration": 10,
-        "difficultyLevel": 1,
-        "type": "Vegeterian",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 2,
-                "index": 1,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 10,
-                "index": 2,
-                "name": "Red (Purple) Onion",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 11,
-                "index": 3,
-                "name": "Slaty Cheese",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 9,
-                "index": 4,
-                "name": "Black Pepper Power",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 12,
-                "index": 5,
-                "name": "Kalamata (Black) Olives Sliced",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 13,
-                "index": 6,
-                "name": "Yogurt",
-                "units": "cup",
-                "quantity": 1
-            }
-        ],
-        "preparationSteps": []
-    },
-    {
-        "id": 3,
-        "name": "Shakshuka #2",
-        "desc": "Eggs dish with tomato",
-        "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
-        "duration": 15,
-        "difficultyLevel": 2,
-        "type": "Eggs",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 1,
-                "index": 1,
-                "name": "Egg",
-                "units": "x",
-                "quantity": 4
-            },
-            {
-                "ingredientId": 2,
-                "index": 2,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 5
-            },
-            {
-                "ingredientId": 3,
-                "index": 3,
-                "name": "Onion",
-                "units": "x",
-                "quantity": 2
-            },
-            {
-                "ingredientId": 4,
-                "index": 4,
-                "name": "Garlic",
-                "units": "heads",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 5,
-                "index": 5,
-                "name": "Sweet Paprica Power",
-                "units": "tablespoon",
-                "quantity": 3
-            },
-            {
-                "ingredientId": 6,
-                "index": 6,
-                "name": "Hot Paprica Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 7,
-                "index": 7,
-                "name": "White Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 9,
-                "index": 9,
-                "name": "Black Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 8,
-                "index": 8,
-                "name": "Kosher Salt",
-                "units": "teaspoon",
-                "quantity": 0.5
-            }
-        ],
-        "preparationSteps": [
-            {
-                "stepNumber": 1,
-                "description": "Cut the tametos to small cube 1cm x 1cm."
-            },
-            {
-                "stepNumber": 2,
-                "description": "Pill and cut the onions into small cubes 1cm x 1cm."
-            },
-            {
-                "stepNumber": 3,
-                "description": "Pill and cut the garlic into thin slices."
-            },
-            {
-                "stepNumber": 4,
-                "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
-            },
-            {
-                "stepNumber": 5,
-                "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
-            },
-            {
-                "stepNumber": 6,
-                "description": "Add the garlic and fry for about 2 min on high flame."
-            },
-            {
-                "stepNumber": 7,
-                "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
-            },
-            {
-                "stepNumber": 8,
-                "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
-            },
-            {
-                "stepNumber": 9,
-                "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
-            },
-            {
-                "stepNumber": 10,
-                "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
-            },
-            {
-                "stepNumber": 11,
-                "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
-            },
-            {
-                "stepNumber": 12,
-                "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
-            },
-            {
-                "stepNumber": 13,
-                "description": " Let it cook for 10-15 min."
-            },
-            {
-                "stepNumber": 14,
-                "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
-            },
-            {
-                "stepNumber": 15,
-                "description": "Turn off the flame and serve to the table with pita bread or toasts."
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Greek Salad #2",
-        "desc": "Tomato and olives and cheese",
-        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
-        "duration": 10,
-        "difficultyLevel": 1,
-        "type": "Vegeterian",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 2,
-                "index": 1,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 10,
-                "index": 2,
-                "name": "Red (Purple) Onion",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 11,
-                "index": 3,
-                "name": "Slaty Cheese",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 9,
-                "index": 4,
-                "name": "Black Pepper Power",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 12,
-                "index": 5,
-                "name": "Kalamata (Black) Olives Sliced",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 13,
-                "index": 6,
-                "name": "Yogurt",
-                "units": "cup",
-                "quantity": 1
-            }
-        ],
-        "preparationSteps": []
-    },
-    {
-        "id": 5,
-        "name": "Shuba Salad",
-        "desc": "Herring Under Fur Coat",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Selidi_pod_shuboi.jpg/1024px-Selidi_pod_shuboi.jpg",
-        "duration": 90,
-        "difficultyLevel": 2,
-        "type": "Fish",
-        "userId": null,
-        "ingredients": [],
-        "preparationSteps": []
-    },
-    {
-        "id": 6,
-        "name": "Shakshuka 3",
-        "desc": "Eggs dish with tomato",
-        "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
-        "duration": 15,
-        "difficultyLevel": 2,
-        "type": "Eggs",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 1,
-                "index": 1,
-                "name": "Egg",
-                "units": "x",
-                "quantity": 4
-            },
-            {
-                "ingredientId": 2,
-                "index": 2,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 5
-            },
-            {
-                "ingredientId": 3,
-                "index": 3,
-                "name": "Onion",
-                "units": "x",
-                "quantity": 2
-            },
-            {
-                "ingredientId": 4,
-                "index": 4,
-                "name": "Garlic",
-                "units": "heads",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 5,
-                "index": 5,
-                "name": "Sweet Paprica Power",
-                "units": "tablespoon",
-                "quantity": 3
-            },
-            {
-                "ingredientId": 6,
-                "index": 6,
-                "name": "Hot Paprica Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 7,
-                "index": 7,
-                "name": "White Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 9,
-                "index": 9,
-                "name": "Black Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 8,
-                "index": 8,
-                "name": "Kosher Salt",
-                "units": "teaspoon",
-                "quantity": 0.5
-            }
-        ],
-        "preparationSteps": [
-            {
-                "stepNumber": 1,
-                "description": "Cut the tametos to small cube 1cm x 1cm."
-            },
-            {
-                "stepNumber": 2,
-                "description": "Pill and cut the onions into small cubes 1cm x 1cm."
-            },
-            {
-                "stepNumber": 3,
-                "description": "Pill and cut the garlic into thin slices."
-            },
-            {
-                "stepNumber": 4,
-                "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
-            },
-            {
-                "stepNumber": 5,
-                "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
-            },
-            {
-                "stepNumber": 6,
-                "description": "Add the garlic and fry for about 2 min on high flame."
-            },
-            {
-                "stepNumber": 7,
-                "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
-            },
-            {
-                "stepNumber": 8,
-                "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
-            },
-            {
-                "stepNumber": 9,
-                "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
-            },
-            {
-                "stepNumber": 10,
-                "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
-            },
-            {
-                "stepNumber": 11,
-                "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
-            },
-            {
-                "stepNumber": 12,
-                "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
-            },
-            {
-                "stepNumber": 13,
-                "description": " Let it cook for 10-15 min."
-            },
-            {
-                "stepNumber": 14,
-                "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
-            },
-            {
-                "stepNumber": 15,
-                "description": "Turn off the flame and serve to the table with pita bread or toasts."
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Greek Salad 3",
-        "desc": "Tomato and olives and cheese",
-        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
-        "duration": 10,
-        "difficultyLevel": 1,
-        "type": "Vegeterian",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 2,
-                "index": 1,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 10,
-                "index": 2,
-                "name": "Red (Purple) Onion",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 11,
-                "index": 3,
-                "name": "Slaty Cheese",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 9,
-                "index": 4,
-                "name": "Black Pepper Power",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 12,
-                "index": 5,
-                "name": "Kalamata (Black) Olives Sliced",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 13,
-                "index": 6,
-                "name": "Yogurt",
-                "units": "cup",
-                "quantity": 1
-            }
-        ],
-        "preparationSteps": []
-    },
-    {
-        "id": 8,
-        "name": "Shakshuka 4",
-        "desc": "Eggs dish with tomato",
-        "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
-        "duration": 15,
-        "difficultyLevel": 2,
-        "type": "Eggs",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 1,
-                "index": 1,
-                "name": "Egg",
-                "units": "x",
-                "quantity": 4
-            },
-            {
-                "ingredientId": 2,
-                "index": 2,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 5
-            },
-            {
-                "ingredientId": 3,
-                "index": 3,
-                "name": "Onion",
-                "units": "x",
-                "quantity": 2
-            },
-            {
-                "ingredientId": 4,
-                "index": 4,
-                "name": "Garlic",
-                "units": "heads",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 5,
-                "index": 5,
-                "name": "Sweet Paprica Power",
-                "units": "tablespoon",
-                "quantity": 3
-            },
-            {
-                "ingredientId": 6,
-                "index": 6,
-                "name": "Hot Paprica Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 7,
-                "index": 7,
-                "name": "White Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 9,
-                "index": 9,
-                "name": "Black Pepper Powder",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 8,
-                "index": 8,
-                "name": "Kosher Salt",
-                "units": "teaspoon",
-                "quantity": 0.5
-            }
-        ],
-        "preparationSteps": [
-            {
-                "stepNumber": 1,
-                "description": "Cut the tametos to small cube 1cm x 1cm."
-            },
-            {
-                "stepNumber": 2,
-                "description": "Pill and cut the onions into small cubes 1cm x 1cm."
-            },
-            {
-                "stepNumber": 3,
-                "description": "Pill and cut the garlic into thin slices."
-            },
-            {
-                "stepNumber": 4,
-                "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
-            },
-            {
-                "stepNumber": 5,
-                "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
-            },
-            {
-                "stepNumber": 6,
-                "description": "Add the garlic and fry for about 2 min on high flame."
-            },
-            {
-                "stepNumber": 7,
-                "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
-            },
-            {
-                "stepNumber": 8,
-                "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
-            },
-            {
-                "stepNumber": 9,
-                "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
-            },
-            {
-                "stepNumber": 10,
-                "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
-            },
-            {
-                "stepNumber": 11,
-                "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
-            },
-            {
-                "stepNumber": 12,
-                "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
-            },
-            {
-                "stepNumber": 13,
-                "description": " Let it cook for 10-15 min."
-            },
-            {
-                "stepNumber": 14,
-                "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
-            },
-            {
-                "stepNumber": 15,
-                "description": "Turn off the flame and serve to the table with pita bread or toasts."
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Greek Salad 4",
-        "desc": "Tomato and olives and cheese",
-        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
-        "duration": 10,
-        "difficultyLevel": 1,
-        "type": "Vegeterian",
-        "userId": null,
-        "ingredients": [
-            {
-                "ingredientId": 2,
-                "index": 1,
-                "name": "Tomato",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 10,
-                "index": 2,
-                "name": "Red (Purple) Onion",
-                "units": "x",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 11,
-                "index": 3,
-                "name": "Slaty Cheese",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 9,
-                "index": 4,
-                "name": "Black Pepper Power",
-                "units": "teaspoon",
-                "quantity": 1
-            },
-            {
-                "ingredientId": 12,
-                "index": 5,
-                "name": "Kalamata (Black) Olives Sliced",
-                "units": "gr",
-                "quantity": 50
-            },
-            {
-                "ingredientId": 13,
-                "index": 6,
-                "name": "Yogurt",
-                "units": "cup",
-                "quantity": 1
-            }
-        ],
-        "preparationSteps": []
-    },
-    {
-        "id": 10,
-        "name": "Falafel",
-        "desc": "Vigan Friendly",
-        "img": "https://toriavey.com/images/2011/01/Falafel-10-640x480.jpg",
-        "duration": 30,
-        "difficultyLevel": 2,
-        "type": "Vigan Friendly",
-        "userId": null,
-        "ingredients": [],
-        "preparationSteps": []
-    },
-    {
-        "id": 11,
-        "name": "Chimichuri",
-        "desc": "Vigan Friendly",
-        "img": "https://alchetron.com/cdn/chimichurri-9d156011-02dc-4f95-93ac-a217b147dee-resize-750.jpg",
-        "duration": 30,
-        "difficultyLevel": 1,
-        "type": "Vigan Friendly",
-        "userId": null,
-        "ingredients": [],
-        "preparationSteps": []
-    }
+  {
+    "id": 1,
+    "name": "Shakshuka",
+    "desc": "Eggs dish with tomato",
+    "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
+    "duration": 15,
+    "difficultyLevel": 2,
+    "type": "Eggs",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "index": 1,
+        "name": "Egg",
+        "units": "x",
+        "quantity": 4
+      },
+      {
+        "ingredientId": 2,
+        "index": 2,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 5
+      },
+      {
+        "ingredientId": 3,
+        "index": 3,
+        "name": "Onion",
+        "units": "x",
+        "quantity": 2
+      },
+      {
+        "ingredientId": 4,
+        "index": 4,
+        "name": "Garlic",
+        "units": "heads",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 5,
+        "index": 5,
+        "name": "Sweet Paprica Power",
+        "units": "tablespoon",
+        "quantity": 3
+      },
+      {
+        "ingredientId": 6,
+        "index": 6,
+        "name": "Hot Paprica Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 7,
+        "index": 7,
+        "name": "White Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 9,
+        "index": 9,
+        "name": "Black Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 8,
+        "index": 8,
+        "name": "Kosher Salt",
+        "units": "teaspoon",
+        "quantity": 0.5
+      }
+    ],
+    "preparationSteps": [
+      {
+        "stepNumber": 1,
+        "description": "Cut the tametos to small cube 1cm x 1cm."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Pill and cut the onions into small cubes 1cm x 1cm."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pill and cut the garlic into thin slices."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
+      },
+      {
+        "stepNumber": 5,
+        "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Add the garlic and fry for about 2 min on high flame."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
+      },
+      {
+        "stepNumber": 9,
+        "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
+      },
+      {
+        "stepNumber": 10,
+        "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
+      },
+      {
+        "stepNumber": 11,
+        "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
+      },
+      {
+        "stepNumber": 12,
+        "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
+      },
+      {
+        "stepNumber": 13,
+        "description": " Let it cook for 10-15 min."
+      },
+      {
+        "stepNumber": 14,
+        "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
+      },
+      {
+        "stepNumber": 15,
+        "description": "Turn off the flame and serve to the table with pita bread or toasts."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Greek Salad",
+    "desc": "Tomato and olives and cheese",
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
+    "duration": 10,
+    "difficultyLevel": 1,
+    "type": "Vegeterian",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "index": 1,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 10,
+        "index": 2,
+        "name": "Red (Purple) Onion",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 11,
+        "index": 3,
+        "name": "Slaty Cheese",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 9,
+        "index": 4,
+        "name": "Black Pepper Power",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 12,
+        "index": 5,
+        "name": "Kalamata (Black) Olives Sliced",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 13,
+        "index": 6,
+        "name": "Yogurt",
+        "units": "cup",
+        "quantity": 1
+      }
+    ],
+    "preparationSteps": []
+  },
+  {
+    "id": 3,
+    "name": "Shakshuka #2",
+    "desc": "Eggs dish with tomato",
+    "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
+    "duration": 15,
+    "difficultyLevel": 2,
+    "type": "Eggs",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "index": 1,
+        "name": "Egg",
+        "units": "x",
+        "quantity": 4
+      },
+      {
+        "ingredientId": 2,
+        "index": 2,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 5
+      },
+      {
+        "ingredientId": 3,
+        "index": 3,
+        "name": "Onion",
+        "units": "x",
+        "quantity": 2
+      },
+      {
+        "ingredientId": 4,
+        "index": 4,
+        "name": "Garlic",
+        "units": "heads",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 5,
+        "index": 5,
+        "name": "Sweet Paprica Power",
+        "units": "tablespoon",
+        "quantity": 3
+      },
+      {
+        "ingredientId": 6,
+        "index": 6,
+        "name": "Hot Paprica Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 7,
+        "index": 7,
+        "name": "White Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 9,
+        "index": 9,
+        "name": "Black Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 8,
+        "index": 8,
+        "name": "Kosher Salt",
+        "units": "teaspoon",
+        "quantity": 0.5
+      }
+    ],
+    "preparationSteps": [
+      {
+        "stepNumber": 1,
+        "description": "Cut the tametos to small cube 1cm x 1cm."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Pill and cut the onions into small cubes 1cm x 1cm."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pill and cut the garlic into thin slices."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
+      },
+      {
+        "stepNumber": 5,
+        "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Add the garlic and fry for about 2 min on high flame."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
+      },
+      {
+        "stepNumber": 9,
+        "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
+      },
+      {
+        "stepNumber": 10,
+        "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
+      },
+      {
+        "stepNumber": 11,
+        "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
+      },
+      {
+        "stepNumber": 12,
+        "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
+      },
+      {
+        "stepNumber": 13,
+        "description": " Let it cook for 10-15 min."
+      },
+      {
+        "stepNumber": 14,
+        "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
+      },
+      {
+        "stepNumber": 15,
+        "description": "Turn off the flame and serve to the table with pita bread or toasts."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Greek Salad #2",
+    "desc": "Tomato and olives and cheese",
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
+    "duration": 10,
+    "difficultyLevel": 1,
+    "type": "Vegeterian",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "index": 1,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 10,
+        "index": 2,
+        "name": "Red (Purple) Onion",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 11,
+        "index": 3,
+        "name": "Slaty Cheese",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 9,
+        "index": 4,
+        "name": "Black Pepper Power",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 12,
+        "index": 5,
+        "name": "Kalamata (Black) Olives Sliced",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 13,
+        "index": 6,
+        "name": "Yogurt",
+        "units": "cup",
+        "quantity": 1
+      }
+    ],
+    "preparationSteps": []
+  },
+  {
+    "id": 5,
+    "name": "Shuba Salad",
+    "desc": "Herring Under Fur Coat",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Selidi_pod_shuboi.jpg/1024px-Selidi_pod_shuboi.jpg",
+    "duration": 90,
+    "difficultyLevel": 2,
+    "type": "Fish",
+    "userId": null,
+    "ingredients": [],
+    "preparationSteps": []
+  },
+  {
+    "id": 6,
+    "name": "Shakshuka 3",
+    "desc": "Eggs dish with tomato",
+    "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
+    "duration": 15,
+    "difficultyLevel": 2,
+    "type": "Eggs",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "index": 1,
+        "name": "Egg",
+        "units": "x",
+        "quantity": 4
+      },
+      {
+        "ingredientId": 2,
+        "index": 2,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 5
+      },
+      {
+        "ingredientId": 3,
+        "index": 3,
+        "name": "Onion",
+        "units": "x",
+        "quantity": 2
+      },
+      {
+        "ingredientId": 4,
+        "index": 4,
+        "name": "Garlic",
+        "units": "heads",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 5,
+        "index": 5,
+        "name": "Sweet Paprica Power",
+        "units": "tablespoon",
+        "quantity": 3
+      },
+      {
+        "ingredientId": 6,
+        "index": 6,
+        "name": "Hot Paprica Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 7,
+        "index": 7,
+        "name": "White Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 9,
+        "index": 9,
+        "name": "Black Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 8,
+        "index": 8,
+        "name": "Kosher Salt",
+        "units": "teaspoon",
+        "quantity": 0.5
+      }
+    ],
+    "preparationSteps": [
+      {
+        "stepNumber": 1,
+        "description": "Cut the tametos to small cube 1cm x 1cm."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Pill and cut the onions into small cubes 1cm x 1cm."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pill and cut the garlic into thin slices."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
+      },
+      {
+        "stepNumber": 5,
+        "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Add the garlic and fry for about 2 min on high flame."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
+      },
+      {
+        "stepNumber": 9,
+        "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
+      },
+      {
+        "stepNumber": 10,
+        "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
+      },
+      {
+        "stepNumber": 11,
+        "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
+      },
+      {
+        "stepNumber": 12,
+        "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
+      },
+      {
+        "stepNumber": 13,
+        "description": " Let it cook for 10-15 min."
+      },
+      {
+        "stepNumber": 14,
+        "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
+      },
+      {
+        "stepNumber": 15,
+        "description": "Turn off the flame and serve to the table with pita bread or toasts."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Greek Salad 3",
+    "desc": "Tomato and olives and cheese",
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
+    "duration": 10,
+    "difficultyLevel": 1,
+    "type": "Vegeterian",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "index": 1,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 10,
+        "index": 2,
+        "name": "Red (Purple) Onion",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 11,
+        "index": 3,
+        "name": "Slaty Cheese",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 9,
+        "index": 4,
+        "name": "Black Pepper Power",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 12,
+        "index": 5,
+        "name": "Kalamata (Black) Olives Sliced",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 13,
+        "index": 6,
+        "name": "Yogurt",
+        "units": "cup",
+        "quantity": 1
+      }
+    ],
+    "preparationSteps": []
+  },
+  {
+    "id": 8,
+    "name": "Shakshuka 4",
+    "desc": "Eggs dish with tomato",
+    "img": "https://downshiftology.com/wp-content/uploads/2015/11/shakshuka-12.jpg",
+    "duration": 15,
+    "difficultyLevel": 2,
+    "type": "Eggs",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "index": 1,
+        "name": "Egg",
+        "units": "x",
+        "quantity": 4
+      },
+      {
+        "ingredientId": 2,
+        "index": 2,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 5
+      },
+      {
+        "ingredientId": 3,
+        "index": 3,
+        "name": "Onion",
+        "units": "x",
+        "quantity": 2
+      },
+      {
+        "ingredientId": 4,
+        "index": 4,
+        "name": "Garlic",
+        "units": "heads",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 5,
+        "index": 5,
+        "name": "Sweet Paprica Power",
+        "units": "tablespoon",
+        "quantity": 3
+      },
+      {
+        "ingredientId": 6,
+        "index": 6,
+        "name": "Hot Paprica Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 7,
+        "index": 7,
+        "name": "White Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 9,
+        "index": 9,
+        "name": "Black Pepper Powder",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 8,
+        "index": 8,
+        "name": "Kosher Salt",
+        "units": "teaspoon",
+        "quantity": 0.5
+      }
+    ],
+    "preparationSteps": [
+      {
+        "stepNumber": 1,
+        "description": "Cut the tametos to small cube 1cm x 1cm."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Pill and cut the onions into small cubes 1cm x 1cm."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pill and cut the garlic into thin slices."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hit a pan with 3 tablespoons of vegetalbe oil."
+      },
+      {
+        "stepNumber": 5,
+        "description": "When the oil is smoking add the onion and fry on high flame until it is transparent."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Add the garlic and fry for about 2 min on high flame."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Add the tameto cubes into the pan, mix with the onion and garlic, let it cook for a minute."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Add 2 table spoons of vegetable oil, add the spices to your liking and stir everything together."
+      },
+      {
+        "stepNumber": 9,
+        "description": "Recommended spices: Sweet and Hot Paprika, garlic powder, white pepper, kosher salt."
+      },
+      {
+        "stepNumber": 10,
+        "description": "Do the next step for each egg seperately one at a time, arranging them in the pan:"
+      },
+      {
+        "stepNumber": 11,
+        "description": "Break the egg into a small bowl, check there is not eggshell in the bowl and add it to the pan."
+      },
+      {
+        "stepNumber": 12,
+        "description": "Lower the flame to low-medium, add vegetable oil if needed and Cover the pan."
+      },
+      {
+        "stepNumber": 13,
+        "description": " Let it cook for 10-15 min."
+      },
+      {
+        "stepNumber": 14,
+        "description": "Lift the cover off the pan, check the eggs are cooked to your liking."
+      },
+      {
+        "stepNumber": 15,
+        "description": "Turn off the flame and serve to the table with pita bread or toasts."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Greek Salad 4",
+    "desc": "Tomato and olives and cheese",
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.616.462.suffix/1529943050536.jpeg",
+    "duration": 10,
+    "difficultyLevel": 1,
+    "type": "Vegeterian",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "index": 1,
+        "name": "Tomato",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 10,
+        "index": 2,
+        "name": "Red (Purple) Onion",
+        "units": "x",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 11,
+        "index": 3,
+        "name": "Slaty Cheese",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 9,
+        "index": 4,
+        "name": "Black Pepper Power",
+        "units": "teaspoon",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 12,
+        "index": 5,
+        "name": "Kalamata (Black) Olives Sliced",
+        "units": "gr",
+        "quantity": 50
+      },
+      {
+        "ingredientId": 13,
+        "index": 6,
+        "name": "Yogurt",
+        "units": "cup",
+        "quantity": 1
+      }
+    ],
+    "preparationSteps": []
+  },
+  {
+    "id": 10,
+    "name": "Falafel",
+    "desc": "Vigan Friendly",
+    "img": "https://toriavey.com/images/2011/01/Falafel-10-640x480.jpg",
+    "duration": 30,
+    "difficultyLevel": 2,
+    "type": "Vigan Friendly",
+    "userId": null,
+    "ingredients": [],
+    "preparationSteps": []
+  },
+  {
+    "id": 11,
+    "name": "Chimichuri",
+    "desc": "Vigan Friendly",
+    "img": "https://alchetron.com/cdn/chimichurri-9d156011-02dc-4f95-93ac-a217b147dee-resize-750.jpg",
+    "duration": 30,
+    "difficultyLevel": 1,
+    "type": "Vigan Friendly",
+    "userId": null,
+    "ingredients": [],
+    "preparationSteps": []
+  },
+  {
+    "id": 12,
+    "name": "Brownies",
+    "desc": "Dessert / Cake",
+    "img": "https://alchetron.com/cdn/chimichurri-9d156011-02dc-4f95-93ac-a217b147dee-resize-750.jpg",
+    "duration": 30,
+    "difficultyLevel": 1,
+    "type": "Dessert",
+    "userId": null,
+    "ingredients": [
+      {
+        "ingredientId": 24,
+        "index": 1,
+        "name": "Sugar",
+        "units": "x",
+        "quantity": 1.33
+      },
+      {
+        "ingredientId": 25,
+        "index": 2,
+        "name": "Butter",
+        "units": "pkg",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 26,
+        "index": 3,
+        "name": "Flour",
+        "units": "cup",
+        "quantity": 1.33
+      },
+      {
+        "ingredientId": 27,
+        "index": 4,
+        "name": "Baking Powder",
+        "units": "pkg",
+        "quantity": 1
+      },
+      {
+        "ingredientId": 1,
+        "index": 5,
+        "name": "Eggs",
+        "units": "units",
+        "quantity": 3
+      },
+      {
+        "ingredientId": 28,
+        "index": 6,
+        "name": "Dark Chocolate",
+        "units": "gr",
+        "quantity": 200
+      }
+    ],
+    "preparationSteps": [
+      {
+        "stepNumber": 1,
+        "description": "Desolve the Chocolate, Sugar, and Butter in a pot on low flame until you receive a mixture without lumps."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Transfer the melted Chocolate to a bowl, add the eggs one at a time while stiring fast to prevet the eggs from being cooked by the heat."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Slowly add the baking powder and Flour to the mixture and mix well to prevent lumps."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hit an over / toaster-oven to 180 degree Celsius."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Oil a baking tray with butter and transfer the chocolate mixture to it."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Level the mixture in the baking tray and get rid of air bubbles."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Put the baking tray in the oven for 20 min."
+      },
+      {
+        "stepNumber": 8,
+        "description": "When a wood chip comes out dry, take the baking tray out of the over and cool it before cutting the brownies to desired size pieces."
+      }
+    ]
+  }
 ]
